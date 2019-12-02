@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: "Open Sans";
-    src: url("../font/Open_Sans/OpenSans-Regular.ttf") format("truetype"),
+    src: url("../font/Open_Sans/OpenSans-Regular.ttf") format("truetype");
    }
    @font-face {
     font-family: "Open Sans";
     font-weight: 700;
-    src: url("../font/Open_Sans/OpenSans-Bold.ttf") format("truetype"),
+    src: url("../font/Open_Sans/OpenSans-Bold.ttf") format("truetype");
    }
 body {
     margin:0px;
