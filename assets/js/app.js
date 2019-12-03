@@ -34,7 +34,67 @@ window.onload = function () {
                                     "nom"   :  "Tahakdjian", 
                                     "url_photo"      : "./assets/img/trombinoscope/alexis.jpg"
 
-                                }
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
+                                { 
+                                    "prenom"  :  "Roger", 
+                                    "nom"   :  "Damien", 
+                                    "url_photo"      : "./assets/img/trombinoscope/no-photo.png"
+                                },
                         ] 
                         }
                     })
