@@ -188,10 +188,11 @@ nav a {
     justify-content: space-around;
 }
 #section5 .container div{
-    margin-bottom: 3em;
+    margin: 0em 2em 3em 2em;
 }
 #section5 img {
-    width: 17vw;
+    width: 250px;
+    border-radius: 300px;
 }
 #section5 h3 {
     text-align: center;
