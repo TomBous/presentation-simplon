@@ -114,14 +114,14 @@ nav a {
     padding-left: 3em;
 }
 .logo img {
-    width: 40vw;
+    width: 520px;
 }
 
 #section2{
     background-color: #3B4252;
 }
 #section2 p{
-    font-size: 1.1vw;
+    font-size: 1em;
     color: #555;
 }
 #section3{
@@ -131,7 +131,7 @@ nav a {
     background-color: #5E81AC;
 }
 #valeurs div,#formations div {
-    width: 26%;
+    width: 400px;
     padding: 0em 1em;
     margin: 0em 1em;
     background-color: white;
@@ -146,7 +146,8 @@ nav a {
     list-style: none;
     line-height: 2em;
     color: #555;
-    font-size: 1.1vw;
+    font-size: 1em;
+    padding: 0px;
 }
 #section3 i,#section4 i{
     line-height: 2em;
@@ -161,7 +162,7 @@ nav a {
 #section4 ul {
     list-style: none;
     padding: 0;
-    font-size: 1.1vw;
+    font-size: 1em;
 }
 
 #qui {
@@ -175,7 +176,7 @@ nav a {
     line-height:2em;
 }
 .tuile {
-    width: 20vw;
+    width: 350px;
     padding: 2em;
     margin: 0em 1em;
     background-color: white;
@@ -219,14 +220,10 @@ nav a {
     background-color: #A3BE8C;
 }
 /* -------------------------FOOTER -----------+*/
+@media only screen and (max-width: 1400px) {
 
-@media only screen and (max-width: 900px) {
-     #section2 .row, #section3 .row {
-        flex-flow: column wrap ;
-        align-items: center;
-    }
     #valeurs div, #formations div {
-        width: 70%;
+        width: 330px;
         padding: 1em 1em;
         margin: 2em 1em;
         background-color: white;
@@ -239,3 +236,28 @@ nav a {
     }
     
   }
+
+
+@media only screen and (max-width: 1200px) {
+
+    #valeurs div, #formations div {
+        width: 290px;
+    }
+
+    
+  }
+@media only screen and (max-width: 900px) {
+     #section2 .row, #section3 .row {
+        flex-flow: column wrap ;
+        align-items: center;
+    }
+    #valeurs div, #formations div {
+        width: 400px;
+
+    }
+    .tuile {
+        width: 400px;
+    }
+    
+  }
+
