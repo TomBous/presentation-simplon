@@ -38,7 +38,7 @@ html {
     background-color: red;
     border-radius: 30px;
     padding: 1.5em;
-    width: 60%;
+    width: 365px;
 }
 
 .bouton a {
@@ -219,3 +219,23 @@ nav a {
     background-color: #A3BE8C;
 }
 /* -------------------------FOOTER -----------+*/
+
+@media only screen and (max-width: 900px) {
+     #section2 .row, #section3 .row {
+        flex-flow: column wrap ;
+        align-items: center;
+    }
+    #valeurs div, #formations div {
+        width: 70%;
+        padding: 1em 1em;
+        margin: 2em 1em;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgb(37, 37, 37, 0.7);
+    }
+    h3 {
+        margin:0px;
+        padding: 0em 0em;
+    }
+    
+  }
