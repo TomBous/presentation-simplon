@@ -105,6 +105,7 @@ nav a {
 #section1 {
     background-image: url("../img/groupe-simplon.jpg");
     background-size:cover;
+    background-position: center;
     height:75vh;
 
 }
